@@ -1,0 +1,49 @@
+
+Product ID: E001
+Product Name: Fan
+Available Items: 10
+Product Price: 2000.0
+Product Brand: Innovex
+Product Warranty: 12
+
+Product ID: E002
+Product Name: Mobile Phone
+Available Items: 5
+Product Price: 20000.0
+Product Brand: Samsung
+Product Warranty: 12
+
+Product ID: E003
+Product Name: Headset
+Available Items: 12
+Product Price: 8000.0
+Product Brand: JBL
+Product Warranty: 6
+
+Product ID: C001
+Product Name: Denim
+Available Items: 20
+Product Price: 2000.0
+Product Size: L
+Product Color: Orange
+
+Product ID: C002
+Product Name: T-Shirt
+Available Items: 15
+Product Price: 4000.0
+Product Size: M
+Product Color: Blue
+
+Product ID: C003
+Product Name: Cargo Pant
+Available Items: 5
+Product Price: 2500.0
+Product Size: L
+Product Color: Pink
+
+Product ID: C004
+Product Name: Blouse
+Available Items: 12
+Product Price: 3000.0
+Product Size: S
+Product Color: Green
